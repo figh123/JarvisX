@@ -11,9 +11,9 @@ First you need to download your choice of API you can use the PUREJS one if you 
 
 Lets get started with the PUREJS API
 Download the PUREJS folder from github, that is the hardest part
-next all you have to reference where it is in your file structre, for example `<script src="js\JarvisX\JarvisX.basicAI.PUREJSAPI.js></script>"`
+next all you have to reference where it is in your file structre, for example `<script src="js\JarvisX\JarvisX.basicAI.PUREJSAPI.js"></script>`
 
-Next it is very important that you reference the word database, for example `<script src="js\JarvisX\AFINN-111.js></script>"`
+Next it is very important that you reference the word database, for example `<script src="js\JarvisX\AFINN-111.js"></script>`
 
 Great, now you can start using the API, in order to interpret a string of text and get an answer you just call a function and you can reference the answer to the function as a variable.
 
