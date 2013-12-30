@@ -19,12 +19,12 @@ Great, now you can start using the API, in order to interpret a string of text a
 
 Here is how...
 
-`
+```
 //call the function with your string, for now I will use "Hello World!"
 interpret('Hello World!');
 //now I will print the answer out onto the page and alert it
 alert(answer);
 document.write(answer);
-`
+```
 
 That is it! See how easy that was.
