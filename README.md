@@ -7,7 +7,7 @@ Welcome to the JarvisX JavaScript API v2, it is capable of interpreting a string
 
 There are just a few things you need to do to get started.
 
-First you need to download your choice of API you can use the PUREJS one if you want to have the API running on your infrastructure, but it wont be updated once it is downloaded, you can use the JSON one (in development) if you are willing to make calls to my infrastructure (don't worry it is very fast) and have automatic updates, don't worry about the AJAX calls, I handled that for you.
+First you need to download your API you can use the PUREJS one if you want to have the API running on your infrastructure, but it wont be updated once it is downloaded.
 
 Lets get started with the PUREJS API
 Download the PUREJS folder from github, that is the hardest part
